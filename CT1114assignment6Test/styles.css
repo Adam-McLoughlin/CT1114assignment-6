@@ -1,0 +1,65 @@
+body{
+    background-color: black;
+}
+/* HEADER */
+td{
+
+background-color:black;
+
+background-repeat: no-repeat;
+background-size: 100%;
+background-position: center;
+color:red;
+position: relative;
+
+font-style: bold;
+text-align: center;
+
+}
+h1{
+    display: inline-block;
+  
+  margin: 0px;
+  padding: 0px 0px 40px 0px;
+  width: 500px;
+    color: rgb(23, 241, 59);
+    text-decoration: underline;
+    text-transform: uppercase;
+    background-image: url(images/ChckenContact.jpg);
+}
+h2{
+    padding: 50px;
+    list-style-type: none;
+    color: blanchedalmond;
+}
+p{
+    margin: 80px;
+}
+ul{
+    margin:200;
+    padding: 0px 0px 400px 125px;
+    list-style-type: none;
+   
+}
+li{
+    display: inline-block;
+    margin: auto;
+    margin-right: 0px;
+    background: content-box;
+    border-radius: 10px;
+    height: auto;
+    padding:0px 125px 0px 50px;
+    
+}
+li:first-child{
+    margin-left: 0;
+}
+li:hover{
+    background-color:rgb(70, 17, 70);
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
